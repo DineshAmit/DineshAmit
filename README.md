@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DineshAmit
+- 👀 I’m interested in playing chess.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on any organization
+- 📫 How to reach me dineshchoudhury44@gmail.com
